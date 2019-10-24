@@ -1,0 +1,2 @@
+# myService
+go micro service
