@@ -2,8 +2,8 @@ package main
 
 import (
     "fmt"
-    "github.com/callistaenterprise/goblog/accountservice/service" // 新增代码
-    "github.com/callistaenterprise/goblog/accountservice/dbclient"
+    "myService/goblog/accountservice/service" // 新增代码
+    "myService/goblog/accountservice/dbclient"
 )
 
 var appName = "accountservice"

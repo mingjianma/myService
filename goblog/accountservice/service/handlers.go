@@ -1,6 +1,6 @@
 package service
 import (
-    "github.com/callistaenterprise/goblog/accountservice/dbclient"
+    "myService/goblog/accountservice/dbclient"
     "net/http"
     "strconv"
     "encoding/json"

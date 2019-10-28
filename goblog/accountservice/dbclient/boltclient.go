@@ -2,7 +2,7 @@ package dbclient
 
 import (
     "github.com/boltdb/bolt"
-    "github.com/callistaenterprise/goblog/accountservice/model"
+    "myService/goblog/accountservice/model"
     "log"
     "fmt"
     "strconv"
